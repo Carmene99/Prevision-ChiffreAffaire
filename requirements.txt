@@ -1,0 +1,9 @@
+pandas
+prophet
+matplotlib
+plotly
+seaborn
+scikit-learn
+scipy
+ipykernel
+holidays
